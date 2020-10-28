@@ -10,7 +10,7 @@
 
 function loaded() {
 
-    setInterval(loop, 400);
+    setInterval(loop, 200);
 
 }
 
